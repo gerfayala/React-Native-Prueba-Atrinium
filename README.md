@@ -4,7 +4,7 @@ Ejercicio resuelto de la prueba técnica enviada por atrinium
 
 ## Requisitos
 
-- [Node.js](https://nodejs.org/) (versión recomendada)
+- [Node.js](https://nodejs.org/) (20.16.0 LTS)
 - [Expo CLI](https://docs.expo.dev/get-started/installation/)
 
 ## Instalación
@@ -13,11 +13,11 @@ Para instalar y ejecutar la aplicación, sigue estos pasos:
 
 1. Clona este repositorio:
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
+   git clone git@github.com:gerfayala/React-Native-Prueba-Atrinium.git
    ```
 2. Navega al directorio del proyecto:
    ```bash
-   cd <NOMBRE_DEL_DIRECTORIO>
+   cd React-Native-Prueba-Atrinium
    ```
 3. Instala las dependencias:
    ```bash
