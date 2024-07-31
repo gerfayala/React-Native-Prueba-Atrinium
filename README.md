@@ -1,50 +1,58 @@
-# Welcome to your Expo app 👋
+# German PokeApp
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Ejercicio resuelto de la prueba técnica enviada por atrinium
 
-## Get started
+## Requisitos
 
-1. Install dependencies
+- [Node.js](https://nodejs.org/) (versión recomendada)
+- [Expo CLI](https://docs.expo.dev/get-started/installation/)
 
+## Instalación
+
+Para instalar y ejecutar la aplicación, sigue estos pasos:
+
+1. Clona este repositorio:
+   ```bash
+   git clone <URL_DEL_REPOSITORIO>
+   ```
+2. Navega al directorio del proyecto:
+   ```bash
+   cd <NOMBRE_DEL_DIRECTORIO>
+   ```
+3. Instala las dependencias:
    ```bash
    npm install
    ```
-
-2. Start the app
-
+4. Ejecuta el comando:
    ```bash
-    npx expo start
+   npm start
    ```
+5. Selecciona el emulador a utilizar presionando las teclas en la terminal 
+   (a) para Android, (i) para IOS
 
-In the output, you'll find options to open the app in a
+## Scripts
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+A continuación, se presentan los scripts disponibles para ejecutar tu aplicación:
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+- `npm run android`: Inicia la aplicación en un emulador o dispositivo Android.
+- `npm run ios`: Inicia la aplicación en un emulador o dispositivo iOS.
+- `npm run web`: Inicia la aplicación en el navegador web.
+- `npm test`: Ejecuta las pruebas utilizando Jest.
 
-## Get a fresh project
+## Uso
 
-When you're ready, run:
+Describe cómo usar tu aplicación. Proporciona ejemplos, capturas de pantalla, o cualquier información adicional que pueda ayudar a los usuarios.
 
-```bash
-npm run reset-project
-```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
 
-## Learn more
+## Licencia
 
-To learn more about developing your project with Expo, look at the following resources:
+Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+## Contacto
 
-## Join the community
+Si tienes preguntas o sugerencias, no dudes en contactarme:
 
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+- Germán Ayala
+- germanfayala2419@gmail.com 
+- [Linkdin](https://www.linkedin.com/in/germ%C3%A1n-ayala-4257501bb/)
