@@ -37,7 +37,7 @@ A continuación, se presentan los scripts disponibles para ejecutar tu aplicaci�
 - `npm run android`: Inicia la aplicación en un emulador o dispositivo Android.
 - `npm run ios`: Inicia la aplicación en un emulador o dispositivo iOS.
 - `npm run web`: Inicia la aplicación en el navegador web.
-- `npm test`: Ejecuta las pruebas utilizando Jest.
+- `npm run test`: Ejecuta las pruebas utilizando Jest.
 
 ## Uso
 
