@@ -39,10 +39,6 @@ A continuaci처n, se presentan los scripts disponibles para ejecutar tu aplicaci�
 - `npm run web`: Inicia la aplicaci처n en el navegador web.
 - `npm run test`: Ejecuta las pruebas utilizando Jest.
 
-## Uso
-
-Describe c처mo usar tu aplicaci처n. Proporciona ejemplos, capturas de pantalla, o cualquier informaci처n adicional que pueda ayudar a los usuarios.
-
 
 
 ## Licencia
